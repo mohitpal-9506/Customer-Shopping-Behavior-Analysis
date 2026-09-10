@@ -120,7 +120,7 @@ powerbi/
 images/
 - category_wise_sales.png
 
-## 🎯 Conclusion
+## Conclusion
 
 This project demonstrates an end-to-end data analytics workflow
 using Excel, Python, Pandas, SQL and Power BI.
