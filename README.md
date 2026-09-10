@@ -87,7 +87,7 @@ customer shopping behaviour and sales trends.
 
 ### Category Wise Sales
 
-![Category Wise Sales](images/category_wise_sales.png)
+![Category Wise Sales](images/Figure_1.png)
 
 ## Power BI Dashboard
 
