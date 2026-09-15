@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project analyzes customer shopping behaviour using
-Python, Pandas, SQL, Excel and Power BI.
+Python, Pandas, Matplotlib, SQL, Excel and Power BI.
 
 The objective is to identify customer purchasing patterns,
 category-wise sales, payment preferences and other business
@@ -15,7 +15,6 @@ insights.
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 - SQL
 - Power BI
 
@@ -51,7 +50,7 @@ Python + Pandas
 ↓
 Exploratory Data Analysis
 ↓
-Matplotlib + Seaborn
+Matplotlib 
 ↓
 SQL Analysis
 ↓
